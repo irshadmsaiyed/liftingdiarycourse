@@ -7,7 +7,9 @@
       "mcp__neon__run_sql_transaction",
       "Bash(Get-ChildItem -Path \"D:\\\\software\\\\claude-code\\\\liftingdiarycourse\" -Recurse -Directory)",
       "Bash(Select-Object -ExpandProperty FullName)",
-      "Bash(npm run *)"
+      "Bash(npm run *)",
+      "Bash(git checkout *)",
+      "Bash(git stash *)"
     ]
   },
   "enabledMcpjsonServers": [
