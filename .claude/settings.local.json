@@ -8,8 +8,15 @@
       "Bash(Get-ChildItem -Path \"D:\\\\software\\\\claude-code\\\\liftingdiarycourse\" -Recurse -Directory)",
       "Bash(Select-Object -ExpandProperty FullName)",
       "Bash(npm run *)",
+      "Bash(npm install *)",
+      "Bash(npx shadcn@latest add input label --yes)",
+      "Bash(npx tsc *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
       "Bash(git checkout *)",
-      "Bash(git stash *)"
+      "Bash(git pull *)",
+      "Bash(git stash *)",
+      "Bash(git merge *)"
     ]
   },
   "enabledMcpjsonServers": [
